@@ -5,6 +5,7 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "yarn workspace payload-webpack-bug dev"
+    "dev": "yarn workspace payload-webpack-bug dev",
+    "build": "yarn workspace payload-webpack-bug build"
   }
 }
